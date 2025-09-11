@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677379732977",
+    "project_id": "accessable-f9cf4",
+    "storage_bucket": "accessable-f9cf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677379732977:android:c393136738f723991a0050",
+        "android_client_info": {
+          "package_name": "com.example.accessable_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677379732977-t0r76qvvqvgofrgf6hak9qerms86i6hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_FS1TFUDcPVafWs8T5j6DqdGjdDXFP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677379732977-t0r76qvvqvgofrgf6hak9qerms86i6hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
