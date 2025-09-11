@@ -5,7 +5,7 @@
   "type": "module",
   "description": "AccessAble Admin Panel - Content management and moderation for accessibility platform",
   "scripts": {
-    "dev": "vite",
+    "dev": "node api.js && vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
